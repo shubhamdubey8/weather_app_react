@@ -1,2 +1,2 @@
 # weather_app_react
-weather
+run command - npm run dev
